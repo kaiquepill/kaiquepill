@@ -11,6 +11,7 @@ On my free time i play games and i watch animes
 * **Living in**: São Paulo, Brazil
 * **Stack**: JAVA - KOTLIN - SQL - MONGODB
 * **University**: graduating in systems analysis and development.
+* **Linkedin**: <a href="https://www.linkedin.com/in/kaiquepill/">Linkedin</a>
 
 <center>
   <table>  
