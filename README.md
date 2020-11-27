@@ -16,7 +16,7 @@ On my free time i play games and i watch animes
 <center>
   <table>  
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquepill&hide=html&layout=compact&theme=buefy"</td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquepill&hide=html&layout=compact&theme=buefy"/></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=kaiquepill&theme=buefy"/></td>
     </tr>   
   </table>
