@@ -9,7 +9,7 @@ On my free time i play games and i watch animes
 * **Name**: Kaique Gomes
 * **Age**: 19
 * **Living in**: São Paulo, Brazil
-* **Stack**: Java - Kotlin - SQL - MongoDb
+* **Stack**: Java - Kotlin - SQL - MongoDB
 * **University**: graduating in systems analysis and development.
 * <a href="https://www.linkedin.com/in/kaiquepill/">Linkedin</a>
 
